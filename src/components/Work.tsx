@@ -36,7 +36,7 @@ const Work = () => {
       external:
         "https://vtechworks.lib.vt.edu/items/4d68640d-5285-44d4-a779-34b7c64894a3",
       image:
-        "/codehort.jpeg",
+        "./Portfolio/codehort.jpeg",
     },
     {
       title: "Cricket Data Visualization",
@@ -76,7 +76,7 @@ const Work = () => {
       github: "https://github.com/anujmarisetty/Parking",
       // external: "https://example.com",
       image:
-        "/parking.png",
+        "./Portfolio/parking.png",
     },
   ];
 
