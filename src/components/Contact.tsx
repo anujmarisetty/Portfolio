@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Send } from 'lucide-react';
+import { Github, Linkedin, Mail, Send } from 'lucide-react';
 
 const Contact = () => {
   return (
@@ -23,6 +23,7 @@ const Contact = () => {
             Start a Conversation
             <Send className="w-4 h-4" />
           </a>
+          
         </div>
       </div>
     </section>

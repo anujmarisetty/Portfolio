@@ -18,7 +18,7 @@ const Work = () => {
       tech: ["Python", "LangChain", "OpenAI API", "HuggingFace", "Gradio"],
       github: "https://github.com",
       external: "https://example.com",
-      image:"https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      image:"./chatPDF.png",
     },
     {
       title: "Codehort",
@@ -45,8 +45,7 @@ const Work = () => {
       tech: ["D3.js"],
       github: "https://github.com",
       external: "https://example.com",
-      image:
-        "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1474&q=80",
+      image:        "https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1474&q=80",
     },
     {
       title: "Hand Tracking and Volume Control",
